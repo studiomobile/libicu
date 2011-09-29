@@ -1,0 +1,9 @@
+ICU 4.8.1 binaries for iOS
+
+=== About ICU
+
+http://icu-project.org/
+
+== Package content
+
+Header files and binaries for armv7 (iPad) and i386 (Simulator)
